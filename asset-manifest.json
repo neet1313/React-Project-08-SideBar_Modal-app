@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Project-08-SideBar_Modal-app/static/css/main.d0c40c6f.css",
+    "main.js": "/React-Project-08-SideBar_Modal-app/static/js/main.566e9537.js",
+    "static/media/logo.svg": "/React-Project-08-SideBar_Modal-app/static/media/logo.f13078c14d1831c5548008363223e259.svg",
+    "index.html": "/React-Project-08-SideBar_Modal-app/index.html",
+    "main.d0c40c6f.css.map": "/React-Project-08-SideBar_Modal-app/static/css/main.d0c40c6f.css.map",
+    "main.566e9537.js.map": "/React-Project-08-SideBar_Modal-app/static/js/main.566e9537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c40c6f.css",
+    "static/js/main.566e9537.js"
+  ]
+}
